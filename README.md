@@ -1,11 +1,11 @@
 ## Hello World!
-I'm a passionate **Full-Stack Developer** with expertise in building robust, scalable, and user-friendly web applications. I love turning ideas into reality through clean, efficient code and intuitive design.
+I'm a passionate **Full Stack Developer** with expertise in building robust, scalable, and user-friendly web applications. I love turning ideas into reality through clean, efficient code and intuitive design.
 
-I thrive in **dynamic environments** where I can tackle complex problems, collaborate with cross-functional teams, and continuously expand my skill set. Beyond coding, I enjoy shredding guitar solos and getting lost in a great book.
+I thrive in **dynamic environments** where I can tackle complex problems, collaborate with cross-functional teams, and continuously expand my skill set. Beyond coding, I enjoy shredding guitar solos 🎸 and getting lost in a great book 📚.
 
 ## Skills
 - **Backend:** PHP, Laravel, MySQL, Filament
-- **Frontend:** JavaScript, TypeScript, jQuery, Sass, Bootstrap, Tailwind CSS, Ionic, Vue.js, Nuxt, Inertia, Vuetify, Shadcn/Vue
+- **Frontend:** JavaScript, TypeScript, jQuery, Sass, Bootstrap, Tailwind CSS, Ionic, Vue, Nuxt, Inertia, Vuetify, Shadcn/Vue
 - **Tools & Design:** Git, Figma
 
 ## Find Me Online
