@@ -45,7 +45,7 @@ I thrive in **dynamic environments** where I can tackle complex problems, collab
   <img src="https://img.shields.io/badge/PHP-161616?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/Laravel-161616?style=for-the-badge&logo=laravel" />
   <img src="https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Filament-161616?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Filament-161616?style=for-the-badge&logo=filament" />
   <img src="https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/jQuery-161616?style=for-the-badge&logo=jquery" />
@@ -53,8 +53,8 @@ I thrive in **dynamic environments** where I can tackle complex problems, collab
   <img src="https://img.shields.io/badge/Bootstrap-161616?style=for-the-badge&logo=bootstrap" />
   <img src="https://img.shields.io/badge/TailwindCSS-161616?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Ionic-161616?style=for-the-badge&logo=ionic" />
-  <img src="https://img.shields.io/badge/Vue.js-161616?style=for-the-badge&logo=vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-161616?style=for-the-badge&logo=nuxt.js" />
+  <img src="https://img.shields.io/badge/Vue-161616?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-161616?style=for-the-badge&logo=nuxt" />
   <img src="https://img.shields.io/badge/Inertia-161616?style=for-the-badge&logo=inertia" />
   <img src="https://img.shields.io/badge/Vuetify-161616?style=for-the-badge&logo=vuetify" />
   <img src="https://img.shields.io/badge/Shadcn/Vue-161616?style=for-the-badge&logo=shadcnui" />
@@ -72,5 +72,3 @@ I thrive in **dynamic environments** where I can tackle complex problems, collab
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=YazanTulaimat&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
   />
 </p>
-
----
