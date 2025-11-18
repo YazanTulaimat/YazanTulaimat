@@ -74,20 +74,3 @@ I thrive in **dynamic environments** where I can tackle complex problems, collab
 </p>
 
 ---
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://yazantulaimat.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-c27aff?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yazan-tulaimat/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/yazan.tulaimat/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/yazan.tulaimat/">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge" alt="Instagram"/>
-  </a>
-</p>
