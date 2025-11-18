@@ -51,7 +51,7 @@ I thrive in **dynamic environments** where I can tackle complex problems, collab
   <img src="https://img.shields.io/badge/jQuery-161616?style=for-the-badge&logo=jquery" />
   <img src="https://img.shields.io/badge/Sass-161616?style=for-the-badge&logo=sass" />
   <img src="https://img.shields.io/badge/Bootstrap-161616?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/TailwindCSS-161616?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Tailwind-161616?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Ionic-161616?style=for-the-badge&logo=ionic" />
   <img src="https://img.shields.io/badge/Vue-161616?style=for-the-badge&logo=vue.js" />
   <img src="https://img.shields.io/badge/Nuxt-161616?style=for-the-badge&logo=nuxt" />
